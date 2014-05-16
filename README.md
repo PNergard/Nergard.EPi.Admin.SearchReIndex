@@ -5,3 +5,5 @@ scheduled job as well as re-indexing done via the EPiServer admin functionality 
 
 Read more in this blog post: http://world.episerver.com/Blogs/Per-Nergard/Dates/2014/5/EPiServer-Search-indexing-scheduled-job/
 
+Nuget refused to work on my dev-machine so you will have to fix the references.
+
